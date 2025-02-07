@@ -1,10 +1,82 @@
-### Hello there! 👋
-🌱 I'm currently on an exciting journey of learning Web Development and Data Structures & Algorithms (DSA). 🔭
+### Hi there! I'm Ashlok Chaudhary 👋
 
-⚡ I have a ✨special✨ knack for crafting code with a competitive edge. 😄
+<p align="center">
+  <a href="https://github.com/ashlok2003">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FG5000&center=true&vCenter=true&random=false&width=550&lines=🚀+Full+Stack+Developer;⛅+Cloud+Computing+Expert;⚙️+DevOps+Enthusiast;🏆+Competitive+Programmer;💡+Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</p>
 
-🚀 By day, I'm a versatile developer, sculpting digital solutions with finesse. 💻
 
-🌙 And by night, I transform into a problem-solving ninja, ready to tackle any challenge that comes my way. 👾
 
-📫 Feel free to reach out to me at: [chaudharyashlok@gmail.com](mailto:chaudharyashlok@gmail.com)
+---
+
+## 🚀 About Me
+
+🌱 **Currently Learning:** Advanced Cloud Computing, Web Security, and Performance Optimization  
+⚡ **Passionate About:** Crafting high-performance, scalable, and secure applications  
+💻 **By Day:** A versatile developer sculpting digital solutions with finesse  
+🌙 **By Night:** A problem-solving ninja tackling complex coding challenges 👾  
+📫 **Reach Me At:** [chaudharyashlok@gmail.com](mailto:chaudharyashlok@gmail.com)  
+💡 **Fun Fact:** I love optimizing systems and finding performance bottlenecks!  
+
+---
+
+## 🛠 Tech Stack & Tools
+
+### 🌐 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+### 🛠 Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+</p>
+
+### 🗄 Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+### ⚡ DevOps & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ArgoCD-EF523F?style=for-the-badge&logo=argo&logoColor=white" />
+</p>
+
+---
+
+## 🏆 My Contributions & Achievements
+
+- 🔥 Competitive Programming Enthusiast (LeetCode, CodeChef, CodeForces)
+- 🚀 Passionate about Performance Optimization & Scalability
+
+
+---
+
+## 💬 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashlokchaudhary/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/ashlokchaudhary"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://twitter.com/ashlokchaudhary"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+<p align="center">🔥 _"Code with Passion, Design with Patience!"_ 🚀</p>
+
