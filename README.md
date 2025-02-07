@@ -1,6 +1,5 @@
 # Hi there! I'm Ashlok Chaudhary 👋
 
----
 
 ## 🚀 About Me
 
