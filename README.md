@@ -5,7 +5,7 @@
 > _Engineering solutions with precision, scalability, and reliability at the core._
 
 
-## About Me  
+## 🌟 About Me  
 
 Hello, World! I am Ashlok Chaudhary — a backend developer and cloud enthusiast passionate about building **scalable**, **secure**, and **high-performance** systems.  
 
@@ -18,7 +18,7 @@ I'm also working on cloud-native orchestration tools and distributed task schedu
 ✨ **_Let’s connect and build something impactful!_** ✨
 
 ---
-## Stack 
+## 🧩 Stack 
 
 > I leverage a diverse set of technologies to build **scalable**, **robust**, and **high-performance** systems.
 
@@ -38,7 +38,7 @@ I'm also working on cloud-native orchestration tools and distributed task schedu
 
 ---
 
-## Connect with Me
+## 🤝 Connect with Me
 
 > _I’m always open to collaboration, knowledge-sharing, and exciting opportunities_  
 > _Let’s connect and build something amazing together !_
