@@ -11,7 +11,29 @@ Hello, World! I am Ashlok Chaudhary — a backend developer and cloud enthusiast
 
 With experience across _**`Java`**_, _**`Javascript`**_, _**`Typescript`**_, _**`Node.js`**_,and modern cloud-native technologies, I specialize in designing maintainable architectures, optimizing **system performance**, and delivering robust solutions that scale seamlessly. Beyond work, I enjoy exploring new technologies, contributing to open-source projects, and refining my skills in **distributed systems** and **cloud infrastructure**.  
 
-One of my key projects, **ShopXIndia**, is a microservice-based platform powered by _**`AWS Cloud`**_ and _**`GraphQL Federation`**_, providing scalable, high-performance services through a unified API. It leverages cloud infrastructure, automated CI/CD pipelines, _**`Docker`**_, and an event-driven architecture for enhanced security, performance, and reliability.  
+## 🏗️ Backend Contributions
+
+At **AlphaGen**, I handle ***analytics workflows***, ***Elasticsearch/OpenSearch operations***, ***Celery and scraper tasks***, and backend development using ***Django***, ***ORM***, and ***OpenAI integrations***.
+
+<table>
+  <tr>
+    <td align="center" width="250">
+      <a href="https://github.com/AlphaGen-Analytics">
+        <img src="https://avatars.githubusercontent.com/u/170287381?s=200&v=4" width="26" height="26" /><br/>
+        @AlphaGen-Analytics
+      </a>
+    </td>
+    <td align="center" width="250">
+      <a href="https://github.com/WhatBuilds">
+        <img src="https://avatars.githubusercontent.com/u/149478152?s=200&v=4" width="26" height="26" /><br/>
+        @WhatBuilds
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+I also built **ShopXIndia**, a microservice-based system using **AWS Cloud**, **GraphQL Federation**, `Docker`, and CI/CD pipelines.
 
 I'm also working on cloud-native orchestration tools and distributed task scheduling systems to push the boundaries of modern backend engineering.  
 
