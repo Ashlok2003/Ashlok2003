@@ -5,11 +5,20 @@
 > _Engineering solutions with precision, scalability, and reliability at the core._
 
 
-## 🌟 About Me  
+## 🌟 About Me
 
-Hello, World! I am Ashlok Chaudhary — a backend developer and cloud enthusiast passionate about building **scalable**, **secure**, and **high-performance** systems.  
+**Hello, World!** I am **Ashlok Chaudhary**.
 
-With experience across _**`Java`**_, _**`Javascript`**_, _**`Typescript`**_, _**`Node.js`**_,and modern cloud-native technologies, I specialize in designing maintainable architectures, optimizing **system performance**, and delivering robust solutions that scale seamlessly. Beyond work, I enjoy exploring new technologies, contributing to open-source projects, and refining my skills in **distributed systems** and **cloud infrastructure**.  
+I am a Software Engineer who views software through the lens of **reliability** and **scale**. My work sits at the intersection of application logic and cloud infrastructure, ensuring that systems are not just "working," but are **secure**, **high-performance**, and **fault-tolerant**.
+
+> _"I specialize in bridging the gap between complex code and scalable infrastructure."_
+
+* **The Code:** Fluent in _**`Java`**_, _**`JavaScript`**_, _**`TypeScript`**_, and _**`Node.js`**_.
+* **The Goal:** Designing maintainable architectures that handle growth seamlessly.
+* **The Passion:** Deep-diving into **distributed systems**, contributing to open source, and mastering **cloud-native** patterns.
+
+✨ **_Let’s connect and build something impactful!_** ✨
+
 
 ## 🏗️ Backend Contributions
 
@@ -37,27 +46,21 @@ I also built **ShopXIndia**, a microservice-based system using **AWS Cloud**, **
 
 I'm also working on cloud-native orchestration tools and distributed task scheduling systems to push the boundaries of modern backend engineering.  
 
-✨ **_Let’s connect and build something impactful!_** ✨
-
 ---
 ## 🧩 Stack 
 
 > I leverage a diverse set of technologies to build **scalable**, **robust**, and **high-performance** systems.
 
-| | | | | | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="40" height="40" /> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/circleci/circleci-plain.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="40" height="40" /> |
----
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,go,rust,react,nextjs,nodejs,express,django,spring,graphql,fastapi,postgres,mongodb,redis,mysql,elasticsearch,rabbitmq,kafka,aws,gcp,cloudflare,docker,kubernetes,terraform,git,githubactions,jenkins,ansible,nginx,prometheus,grafana,linux,bash,postman,bun&perline=19" alt="Tech Stack" width="100%" />
 
+## ⚡ What I'm Building
 
-## ⚡ What I’m Building
+> _Current Focus: Distributed Systems & Cloud Orchestration_
 
-- **Building high-performance backend systems** with `Rust` & `Go`, focusing on _distributed task scheduling_ that is **reliable** and **scalable**.  
-- **Deepening expertise** in _Kubernetes operators_, `cloud-native architectures`, and **scalable infrastructure patterns**.  
-- **Contributing to open-source projects** that solve _real-world challenges_ and push **engineering boundaries**.  
-- **Exploring** `event-driven architectures`, _microservices orchestration_, and **performance optimization** for **complex, large-scale systems**.
-
+-   **Architecting** high-performance backend engines in `Rust` & `Go` with a focus on **fault tolerance**.
+-   **Mastering** `Kubernetes` internals by building custom operators and **self-healing infrastructure**.
+-   **Researching** `Event-Driven Patterns` to minimize latency in **large-scale microservices**.
+-   **Solving** complex engineering problems through active **Open Source contributions**.
 ---
 
 ## 🤝 Connect with Me
