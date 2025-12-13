@@ -9,47 +9,64 @@
 
 **Hello, World!** I am **Ashlok Chaudhary**.
 
-I am a Software Engineer who views software through the lens of **reliability** and **scale**. My work sits at the intersection of application logic and cloud infrastructure, ensuring that systems are not just "working," but are **secure**, **high-performance**, and **fault-tolerant**.
-
 > _"I specialize in bridging the gap between complex code and scalable infrastructure."_
 
-* **The Code:** Fluent in _**`Java`**_, _**`JavaScript`**_, _**`TypeScript`**_, and _**`Node.js`**_.
-* **The Goal:** Designing maintainable architectures that handle growth seamlessly.
-* **The Passion:** Deep-diving into **distributed systems**, contributing to open source, and mastering **cloud-native** patterns.
+I am a Software Engineer who views software through the lens of **reliability** and **scale**. My work sits at the intersection of application logic and cloud infrastructure, ensuring that systems are not just "working," but are **secure**, **high-performance**, and **fault-tolerant**.
 
 ✨ **_Let’s connect and build something impactful!_** ✨
 
+With a robust command over _**`Java`**_, _**`JavaScript`**_, _**`TypeScript`**_, and _**`Node.js`**_, I specialize in designing **maintainable architectures** that handle growth seamlessly. My engineering mindset is driven by a passion for deep-diving into **distributed systems**, contributing to **open source**, and mastering complex **cloud-native** patterns.
 
-## 🏗️ Backend Contributions
 
-At **AlphaGen**, I handle ***analytics workflows***, ***Elasticsearch/OpenSearch operations***, ***Celery and scraper tasks***, and backend development using ***Django***, ***ORM***, and ***OpenAI integrations***.
+## 🏗️ Engineering Experience
 
-<table>
+> ✨ *“Build systems that don’t just scale — they **endure**.”* ⚡
+
+<table width="100%">
   <tr>
-    <td align="center" width="250">
-      <a href="https://github.com/AlphaGen-Analytics">
-        <img src="https://avatars.githubusercontent.com/u/170287381?s=200&v=4" width="26" height="26" /><br/>
-        @AlphaGen-Analytics
-      </a>
+    <td width="50%" align="left" valign="top">
+      <div style="display: flex; align-items: center;">
+        <a href="https://github.com/AlphaGen-Analytics">
+          <img src="https://app.alphagenanalytics.ai/images/loader-icon.svg" width="45" align="left" style="margin-right: 15px"/>
+        </a>
+        <a href="https://github.com/AlphaGen-Analytics">
+          <strong>AlphaGen Analytics</strong>
+        </a>
+      </div>
+      <br/>
+      Constructing high-throughput <b>analytics workflows</b> & intelligent <b>AI backends</b>.
+      <br/>
+      <br/>
+      <code>Elasticsearch</code> <code>OpenSearch</code> <code>Celery</code> 
+      <code>Analytics</code> <code>OpenAI</code> <code>Django</code> <code>Scrapers</code>
     </td>
-    <td align="center" width="250">
-      <a href="https://github.com/WhatBuilds">
-        <img src="https://avatars.githubusercontent.com/u/149478152?s=200&v=4" width="26" height="26" /><br/>
-        @WhatBuilds
-      </a>
+    <td width="50%" align="left" valign="top">
+      <div style="display: flex; align-items: center;">
+        <a href="https://github.com/Ashlok2003/ShopxIndia">
+          <img src="https://skillicons.dev/icons?i=github" width="45" align="left" style="margin-right: 15px"/>
+        </a>
+        <a href="https://github.com/Ashlok2003/ShopxIndia">
+          <strong>ShopXIndia</strong>
+        </a>
+      </div>
+      <br/>
+      Architecting a scalable, federation-based <b>microservice ecosystem</b> on the cloud.
+      <br/>
+      <br/>
+      <code>AWS</code> <code>Microservices</code> <code>GraphQL Fedration</code> 
+      <code>Docker</code> <code>CI/CD</code> <code>Gateway</code>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="padding-top: 0; vertical-align: top;">
+      ⚡ <em>Currently pushing boundaries in <strong>Distributed Task Scheduling</strong> & <strong>Orchestration Tools</strong></em>
     </td>
   </tr>
 </table>
 
-
-I also built **ShopXIndia**, a microservice-based system using **AWS Cloud**, **GraphQL Federation**, `Docker`, and CI/CD pipelines.
-
-I'm also working on cloud-native orchestration tools and distributed task scheduling systems to push the boundaries of modern backend engineering.  
-
----
 ## 🧩 Stack 
 
-> I leverage a diverse set of technologies to build **scalable**, **robust**, and **high-performance** systems.
+> _I leverage a diverse set of technologies to build **scalable**, **robust**, and **high-performance** systems_
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,go,rust,react,nextjs,nodejs,express,django,spring,graphql,fastapi,postgres,mongodb,redis,mysql,elasticsearch,rabbitmq,kafka,aws,gcp,cloudflare,docker,kubernetes,terraform,git,githubactions,jenkins,ansible,nginx,prometheus,grafana,linux,bash,postman,bun&perline=19" alt="Tech Stack" width="100%" />
 
