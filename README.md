@@ -4,7 +4,6 @@
 
 > _Engineering solutions with precision, scalability, and reliability at the core._
 
-
 ## 🌟 About Me
 
 **Hello, World!** I am **Ashlok Chaudhary**.
@@ -95,3 +94,6 @@ With a robust command over _**`Java`**_, _**`JavaScript`**_, _**`TypeScript`**_,
   <strong>✨ Build with Purpose · Optimize with Precision · Scale with Confidence 🚀</strong>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ashlok2003&label=Profile%20Views&color=0e75b6&style=flat" alt="Ashlok2003" />
+</p>
