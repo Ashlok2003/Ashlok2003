@@ -21,47 +21,74 @@ With a robust command over _**`Java`**_, _**`JavaScript`**_, _**`TypeScript`**_,
 
 > ✨ *“Build systems that don’t just scale — they **endure**.”* ⚡
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="left" valign="top">
-      <div style="display: flex; align-items: center;">
-        <a href="https://github.com/AlphaGen-Analytics">
-          <img src="https://app.alphagenanalytics.ai/images/loader-icon.svg" width="45" align="left" style="margin-right: 15px"/>
-        </a>
-        <a href="https://github.com/AlphaGen-Analytics">
-          <strong>AlphaGen Analytics</strong>
-        </a>
-      </div>
-      <br/>
-      Constructing high-throughput <b>analytics workflows</b> & intelligent <b>AI backends</b>.
-      <br/>
-      <br/>
-      <code>Elasticsearch</code> <code>OpenSearch</code> <code>Celery</code> 
-      <code>Analytics</code> <code>OpenAI</code> <code>Django</code> <code>Scrapers</code>
-    </td>
-    <td width="50%" align="left" valign="top">
-      <div style="display: flex; align-items: center;">
-        <a href="https://github.com/Ashlok2003/ShopxIndia">
-          <img src="https://skillicons.dev/icons?i=github" width="45" align="left" style="margin-right: 15px"/>
-        </a>
-        <a href="https://github.com/Ashlok2003/ShopxIndia">
-          <strong>ShopXIndia</strong>
-        </a>
-      </div>
-      <br/>
-      Architecting a scalable, federation-based <b>microservice ecosystem</b> on the cloud.
-      <br/>
-      <br/>
-      <code>AWS</code> <code>Microservices</code> <code>GraphQL Fedration</code> 
-      <code>Docker</code> <code>CI/CD</code> <code>Gateway</code>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" style="padding-top: 0; vertical-align: top;">
-      ⚡ <em>Currently pushing boundaries in <strong>Distributed Task Scheduling</strong> & <strong>Orchestration Tools</strong></em>
-    </td>
-  </tr>
+<table>
+<tr>
+<td width="80" align="center">
+<a href="https://openleaf.tech"><img src="https://wsrv.nl/?url=openleaf-two.vercel.app%2Fopenleaf_logo.png&bg=white" width="100%"/></a>
+</td>
+<td width="420" align="center">
+<a href="https://openleaf.tech"><b>OpenLeaf</b></a><br>
+<img src="https://img.shields.io/badge/Backend%20Engineer-0E75B6?style=flat&logo=nodedotjs&logoColor=white" height="16"/>
+</td>
+<td width="80" align="center">
+<a href="https://github.com/AlphaGen-Analytics"><img src="https://app.alphagenanalytics.ai/images/loader-icon.svg" width="100%"/></a>
+</td>
+<td width="420" align="center">
+<a href="https://github.com/AlphaGen-Analytics"><b>AlphaGen Analytics</b></a><br>
+<img src="https://img.shields.io/badge/Backend%20%C2%B7%20AI-0E75B6?style=flat&logo=openai&logoColor=white" height="16"/>
+</td>
+<td width="80" align="center">
+<a href="https://github.com/Ashlok2003/ShopxIndia"><img src="https://skillicons.dev/icons?i=github" width="100%"/></a>
+</td>
+<td width="420" align="center">
+<a href="https://github.com/Ashlok2003/ShopxIndia"><b>ShopXIndia</b></a><br>
+<img src="https://img.shields.io/badge/Personal%20Project-6E7681?style=flat&logo=github&logoColor=white" height="16"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+<sub>Multi-tenant <b>shipping platform</b> — scalable backend, carrier integrations, wallet billing & distributed job queues.</sub>
+</td>
+<td colspan="2" align="center" valign="top">
+<sub>High-throughput <b>analytics workflows</b> — AI-powered search, document ingestion pipelines & scalable backend services.</sub>
+</td>
+<td colspan="2" align="center" valign="top">
+<sub>Federation-based <b>microservice e-commerce</b> platform — GraphQL APIs, Docker & automated CI/CD on AWS.</sub>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+<img src="https://img.shields.io/badge/Node.js-20232A?style=flat&logo=nodedotjs&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Express-20232A?style=flat&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-20232A?style=flat&logo=postgresql&logoColor=4169E1"/>
+<br>
+<img src="https://img.shields.io/badge/Redis-20232A?style=flat&logo=redis&logoColor=FF4438"/>
+<img src="https://img.shields.io/badge/BullMQ-20232A?style=flat&logo=redis&logoColor=DD2E44"/>
+<img src="https://img.shields.io/badge/New%20Relic-20232A?style=flat&logo=newrelic&logoColor=1CE783"/>
+</td>
+<td colspan="2" align="center" valign="top">
+<img src="https://img.shields.io/badge/Python-20232A?style=flat&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Django-20232A?style=flat&logo=django&logoColor=44B78B"/>
+<img src="https://img.shields.io/badge/OpenSearch-20232A?style=flat&logo=opensearch&logoColor=005EB8"/>
+<br>
+<img src="https://img.shields.io/badge/Elasticsearch-20232A?style=flat&logo=elasticsearch&logoColor=FED10A"/>
+<img src="https://img.shields.io/badge/Celery-20232A?style=flat&logo=celery&logoColor=37814A"/>
+<img src="https://img.shields.io/badge/OpenAI-20232A?style=flat&logo=openai&logoColor=white"/>
+</td>
+<td colspan="2" align="center" valign="top">
+<img src="https://img.shields.io/badge/AWS-20232A?style=flat&logo=amazonwebservices&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/GraphQL-20232A?style=flat&logo=graphql&logoColor=E10098"/>
+<img src="https://img.shields.io/badge/Docker-20232A?style=flat&logo=docker&logoColor=2496ED"/>
+<br>
+<img src="https://img.shields.io/badge/Microservices-20232A?style=flat&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-20232A?style=flat&logo=githubactions&logoColor=2088FF"/>
+</td>
+</tr>
 </table>
+
+<p align="center">
+⚡ <em>Currently pushing boundaries in <strong>Distributed Task Scheduling</strong> & <strong>Orchestration Tools</strong>.</em>
+</p>
 
 ## 🧩 Stack 
 
